@@ -3,7 +3,7 @@
 
 
 ## 🚀 Currently Working On
-- [speed dating project](https://github.com/haileylui/speed_dating_project.git)
+- [Speed Dating Project](https://github.com/haileylui/speed_dating_project.git)
 
 ## 💼 Seeking Opportunities
 - Looking for roles in Data Analysis.
@@ -13,6 +13,13 @@
 ## 📫 How to reach me
 - 📧Email: **lhkhailey@gmail.com**
 - 🏠GitHub: **https://github.com/haileylui**
+
+## 🌐 Connect with Me
+<p>
+  <a href="www.linkedin.com/in/hailey-lui">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🛠 Languages and Tools
 
