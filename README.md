@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="www.linkedin.com/hailey-lui">
+  <a href="https://www.linkedin.com/in/hailey-lui" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
